@@ -1,3 +1,5 @@
+ # Content-Based-Image-Classification
+
 In this project, Content Based Image Classification (CBIC) System based on different types of histogram features is implemented. Different quantization levels are used for both grayscale intensity and color histograms. In addition, different levels of grids are applied during feature extraction. Finally, classification is done with K-Nearest Neighbour.
 
 
